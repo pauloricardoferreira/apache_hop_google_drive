@@ -15,3 +15,5 @@ Após adicionar os arquivos, renomeie o arquivo hop-plugins-tech-google-0.70-SNA
 Após esses passos deve ser possivel utilizar o Google Drive.
 
 Não testes se interefere em algo do BigQuery, favor testarem e caso queiram postar algo neste repositório abra uma issue
+
+[Configurando Acesso OAuth - Google](https://www.youtube.com/watch?v=XLsXGTh6uOU)
